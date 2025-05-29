@@ -1,0 +1,7 @@
+C:\btk-c#-course\csharpcourse\Solution1\conditionals\bin\Debug\conditionals.exe.config
+C:\btk-c#-course\csharpcourse\Solution1\conditionals\bin\Debug\conditionals.exe
+C:\btk-c#-course\csharpcourse\Solution1\conditionals\bin\Debug\conditionals.pdb
+C:\btk-c#-course\csharpcourse\Solution1\conditionals\obj\Debug\conditionals.csproj.AssemblyReference.cache
+C:\btk-c#-course\csharpcourse\Solution1\conditionals\obj\Debug\conditionals.csproj.CoreCompileInputs.cache
+C:\btk-c#-course\csharpcourse\Solution1\conditionals\obj\Debug\conditionals.exe
+C:\btk-c#-course\csharpcourse\Solution1\conditionals\obj\Debug\conditionals.pdb

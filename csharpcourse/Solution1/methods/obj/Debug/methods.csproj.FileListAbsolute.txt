@@ -1,0 +1,7 @@
+C:\btk-c#-course\csharpcourse\Solution1\methods\bin\Debug\methods.exe.config
+C:\btk-c#-course\csharpcourse\Solution1\methods\bin\Debug\methods.exe
+C:\btk-c#-course\csharpcourse\Solution1\methods\bin\Debug\methods.pdb
+C:\btk-c#-course\csharpcourse\Solution1\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\btk-c#-course\csharpcourse\Solution1\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\btk-c#-course\csharpcourse\Solution1\methods\obj\Debug\methods.exe
+C:\btk-c#-course\csharpcourse\Solution1\methods\obj\Debug\methods.pdb

@@ -1,0 +1,7 @@
+C:\btk-c#-course\csharpcourse\Solution1\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\btk-c#-course\csharpcourse\Solution1\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\btk-c#-course\csharpcourse\Solution1\arrays\bin\Debug\arrays.exe.config
+C:\btk-c#-course\csharpcourse\Solution1\arrays\bin\Debug\arrays.exe
+C:\btk-c#-course\csharpcourse\Solution1\arrays\bin\Debug\arrays.pdb
+C:\btk-c#-course\csharpcourse\Solution1\arrays\obj\Debug\arrays.exe
+C:\btk-c#-course\csharpcourse\Solution1\arrays\obj\Debug\arrays.pdb
