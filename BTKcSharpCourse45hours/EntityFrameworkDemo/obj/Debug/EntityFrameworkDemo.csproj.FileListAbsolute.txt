@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.Cache
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\Engin\source\repos\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

@@ -1,0 +1,7 @@
+C:\btk-c#-course\csharpcourse\Solution1\loops\bin\Debug\loops.exe.config
+C:\btk-c#-course\csharpcourse\Solution1\loops\bin\Debug\loops.exe
+C:\btk-c#-course\csharpcourse\Solution1\loops\bin\Debug\loops.pdb
+C:\btk-c#-course\csharpcourse\Solution1\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\btk-c#-course\csharpcourse\Solution1\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\btk-c#-course\csharpcourse\Solution1\loops\obj\Debug\loops.exe
+C:\btk-c#-course\csharpcourse\Solution1\loops\obj\Debug\loops.pdb

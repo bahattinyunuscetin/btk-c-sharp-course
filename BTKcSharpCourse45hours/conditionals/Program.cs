@@ -1,73 +1,70 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace Conditionals
 {
-    static void Main()
+    class Program
     {
-        // Kullanıcıdan bir sayı alalım
-        Console.Write("Bir sayı girin: ");
-        int sayi = Convert.ToInt32(Console.ReadLine());
+        static void Main(string[] args)
+        {
+            var number = 11;
+            //if (number == 10)
+            //{
+            //    Console.WriteLine("Number is 10");
+            //}
+            //else if(number ==20)
+            //{
+            //    Console.WriteLine("Number is 20");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Number is not 10 or 20");
+            //}
 
-        // 1. Basit if
-        if (sayi > 0)
-        {
-            Console.WriteLine("Sayı pozitiftir.");
-        }
+            //switch (number)
+            //{
+            //    case 10:
+            //        Console.WriteLine("Number is 10");
+            //        break;
+            //    case 20:
+            //        Console.WriteLine("Number is 20");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Number is not 10 or 20");
+            //        break;
+            //}
 
-        // 2. if - else
-        if (sayi % 2 == 0)
-        {
-            Console.WriteLine("Sayı çifttir.");
-        }
-        else
-        {
-            Console.WriteLine("Sayı tektir.");
-        }
+            //if (number >= 0 && number <= 100)
+            //{
+            //    Console.WriteLine("Number is between 0-100");
+            //}
+            //else if (number > 100 && number <= 200)
+            //{
+            //    Console.WriteLine("Number is between 101-200");
+            //}
+            //else if (number > 200 || number < 0)
+            //{
+            //    Console.WriteLine("Number is less than 0 or greater than 200");
+            //}
 
-        // 3. if - else if - else
-        if (sayi < 0)
-        {
-            Console.WriteLine("Sayı negatiftir.");
-        }
-        else if (sayi == 0)
-        {
-            Console.WriteLine("Sayı sıfırdır.");
-        }
-        else
-        {
-            Console.WriteLine("Sayı pozitiftir.");
-        }
+            if (number<100)
+            {
+                if (number>=90&&number<95)
+                {
+                    
+                }
+                else
+                {
+                    
+                }
 
-        // 4. switch-case örneği
-        Console.Write("Bir gün numarası girin (1-7): ");
-        int gun = Convert.ToInt32(Console.ReadLine());
 
-        switch (gun)
-        {
-            case 1:
-                Console.WriteLine("Pazartesi");
-                break;
-            case 2:
-                Console.WriteLine("Salı");
-                break;
-            case 3:
-                Console.WriteLine("Çarşamba");
-                break;
-            case 4:
-                Console.WriteLine("Perşembe");
-                break;
-            case 5:
-                Console.WriteLine("Cuma");
-                break;
-            case 6:
-                Console.WriteLine("Cumartesi");
-                break;
-            case 7:
-                Console.WriteLine("Pazar");
-                break;
-            default:
-                Console.WriteLine("Geçersiz gün numarası!");
-                break;
+            }
+
+            Console.ReadLine();
         }
     }
 }

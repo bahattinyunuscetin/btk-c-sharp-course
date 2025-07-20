@@ -1,0 +1,7 @@
+C:\Users\Engin\source\repos\CSharpCourse\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Attributes\bin\Debug\Attributes.exe
+C:\Users\Engin\source\repos\CSharpCourse\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Attributes\obj\Debug\Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Attributes\obj\Debug\Attributes.exe
+C:\Users\Engin\source\repos\CSharpCourse\Attributes\obj\Debug\Attributes.pdb

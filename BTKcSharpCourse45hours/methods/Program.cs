@@ -1,70 +1,65 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace Methods
 {
-    static void Main()
+    class Program
     {
-        int sayi1 = 10;
-        int sayi2 = 5;
+        static void Main(string[] args)
+        {
+            //Add();
+            //Add();
+            //Add();
+            //Add();
+            //var result = Add2();
 
-        // Method: toplama ve çıkarma sonuçlarını out parametreyle al
-        int carpim;
-        Hesapla(sayi1, sayi2, out int toplam, out int fark, out carpim);
+            //int number1;
+            //int number2 = 100;
+            //var result2 = Add3(out number1, number2);
 
-        Console.WriteLine($"Toplam: {toplam}");
-        Console.WriteLine($"Fark: {fark}");
-        Console.WriteLine($"Çarpım: {carpim}");
+            //Console.WriteLine(result2);
+            //Console.WriteLine(number1);
 
-        // Method: ref ile değer değiştir (değişkeni yerinde günceller)
-        Console.WriteLine($"Sayi1 ilk değeri: {sayi1}");
-        Arttir(ref sayi1);
-        Console.WriteLine($"Sayi1 arttırıldıktan sonra: {sayi1}");
+            Console.WriteLine(Multiply(2,4));
+            Console.WriteLine(Multiply(2, 4,5));
 
-        // Method Overloading örnekleri:
-        Yazdir("Merhaba dünya!");
-        Yazdir(42);
-        Yazdir("Bahattin", 2025);
-        Console.WriteLine("Toplam (Sum ile): " + Topla(1, 2, 3, 4, 5));
-        Console.WriteLine("Toplam (boş liste): " + Topla());
-        Console.WriteLine("Toplam (tek sayı): " + Topla(42));
-    }
+            Console.WriteLine(Add4(1,2,3,4,5,6));
+            Console.ReadLine();
+        }
 
-    // --------- METHOD TANIMLARI ---------
+        static void Add()
+        {
+            Console.WriteLine("Added!!!");
+        }
 
-    // out parametreli method
-    static void Hesapla(int a, int b, out int toplam, out int fark, out int carpim)
-    {
-        toplam = a + b;
-        fark = a - b;
-        carpim = a * b;
-    }
+        static int Add2(int number1=20, int number2=30)
+        {
+            var result = number1 + number2;
+            return result;
+        }
 
-    // ref parametreli method
-    static void Arttir(ref int x)
-    {
-        x += 1;
-    }
+        static int Add3(out int number1,int number2)
+        {
+            number1 = 30;
+            return number1 + number2;
+        }
 
-    // ---------- METHOD OVERLOADING ----------
+        static int Multiply(int number1,int number2)
+        {
+            return number1 * number2;
+        }
 
-    static void Yazdir(string mesaj)
-    {
-        Console.WriteLine("Metin: " + mesaj);
-    }
+        static int Multiply(int number1, int number2,int number3)
+        {
+            return number1 * number2 * number3;
+        }
 
-    static void Yazdir(int sayi)
-    {
-        Console.WriteLine("Sayı: " + sayi);
-    }
-
-    static void Yazdir(string ad, int yil)
-    {
-        Console.WriteLine($"{ad}, {yil} yılında kayıtlı.");
-    }
-    static int Topla(params int[] sayilar)
-    {
-        return sayilar.Sum(); // dizi elemanlarını toplar
+        static int Add4(int number,params int[] numbers)
+        {
+            return numbers.Sum();
+        }
     }
 }
-

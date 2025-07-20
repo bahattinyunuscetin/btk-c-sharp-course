@@ -1,7 +1,7 @@
-C:\btk-c#-course\csharpcourse\Solution1\methods\bin\Debug\methods.exe.config
-C:\btk-c#-course\csharpcourse\Solution1\methods\bin\Debug\methods.exe
-C:\btk-c#-course\csharpcourse\Solution1\methods\bin\Debug\methods.pdb
-C:\btk-c#-course\csharpcourse\Solution1\methods\obj\Debug\methods.csproj.AssemblyReference.cache
-C:\btk-c#-course\csharpcourse\Solution1\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
-C:\btk-c#-course\csharpcourse\Solution1\methods\obj\Debug\methods.exe
-C:\btk-c#-course\csharpcourse\Solution1\methods\obj\Debug\methods.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Users\Engin\source\repos\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Users\Engin\source\repos\CSharpCourse\Methods\obj\Debug\Methods.pdb

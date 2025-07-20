@@ -1,7 +1,7 @@
-C:\btk-c#-course\csharpcourse\Solution1\typesandvariables\bin\Debug\typesandvariables.exe.config
-C:\btk-c#-course\csharpcourse\Solution1\typesandvariables\bin\Debug\typesandvariables.exe
-C:\btk-c#-course\csharpcourse\Solution1\typesandvariables\bin\Debug\typesandvariables.pdb
-C:\btk-c#-course\csharpcourse\Solution1\typesandvariables\obj\Debug\typesandvariables.csproj.AssemblyReference.cache
-C:\btk-c#-course\csharpcourse\Solution1\typesandvariables\obj\Debug\typesandvariables.csproj.CoreCompileInputs.cache
-C:\btk-c#-course\csharpcourse\Solution1\typesandvariables\obj\Debug\typesandvariables.exe
-C:\btk-c#-course\csharpcourse\Solution1\typesandvariables\obj\Debug\typesandvariables.pdb
+C:\Users\Engin\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\Engin\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\Engin\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\Engin\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

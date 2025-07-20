@@ -1,7 +1,7 @@
-C:\btk-c#-course\csharpcourse\Solution1\conditionals\bin\Debug\conditionals.exe.config
-C:\btk-c#-course\csharpcourse\Solution1\conditionals\bin\Debug\conditionals.exe
-C:\btk-c#-course\csharpcourse\Solution1\conditionals\bin\Debug\conditionals.pdb
-C:\btk-c#-course\csharpcourse\Solution1\conditionals\obj\Debug\conditionals.csproj.AssemblyReference.cache
-C:\btk-c#-course\csharpcourse\Solution1\conditionals\obj\Debug\conditionals.csproj.CoreCompileInputs.cache
-C:\btk-c#-course\csharpcourse\Solution1\conditionals\obj\Debug\conditionals.exe
-C:\btk-c#-course\csharpcourse\Solution1\conditionals\obj\Debug\conditionals.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.csprojResolveAssemblyReference.cache

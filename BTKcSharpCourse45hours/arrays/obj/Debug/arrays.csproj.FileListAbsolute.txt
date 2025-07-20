@@ -1,7 +1,7 @@
-C:\btk-c#-course\csharpcourse\Solution1\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
-C:\btk-c#-course\csharpcourse\Solution1\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
-C:\btk-c#-course\csharpcourse\Solution1\arrays\bin\Debug\arrays.exe.config
-C:\btk-c#-course\csharpcourse\Solution1\arrays\bin\Debug\arrays.exe
-C:\btk-c#-course\csharpcourse\Solution1\arrays\bin\Debug\arrays.pdb
-C:\btk-c#-course\csharpcourse\Solution1\arrays\obj\Debug\arrays.exe
-C:\btk-c#-course\csharpcourse\Solution1\arrays\obj\Debug\arrays.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
